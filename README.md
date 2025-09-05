@@ -1,1 +1,4 @@
-# GARCH-Informed-Neural-Networks-for-Option-Pricing
+# Option-Pricing-Using-MLP-LSTM-and-GRU-Neural-Networks
+This dissertation aims to enhance the accuracy and efficiency of stock optionspricing by integrating traditional financial models with advanced machine learning techniques. Leveraging the Black-Scholes model and Geometric Brownian Motion (GBM) simulation, combined with Multi-Layer Perceptron (MLP), Long Short-Term Memory (LSTM), and Gated Recurrent Unit (GRU) neural networks, this research seeks to build and enhance neural network architectures, optimizing these models for better performance, and comparing the effectiveness of their outputs. The analysis focuses on two main targets: the call option price over the stock price and the logarithm of call option price over the stock price, with and without incorporating the GARCH feature. 
+
+
